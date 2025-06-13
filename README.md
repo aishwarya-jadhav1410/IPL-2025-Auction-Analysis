@@ -32,7 +32,6 @@ Power Query
 👩‍💻 Created By
 Aishwarya Jadhav | Data Analyst
 
-Let me know if you want this in a PDF or .md file format.
 
 
 
